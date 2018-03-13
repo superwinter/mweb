@@ -4,5 +4,8 @@ handlers:
 - url: /
   script: index.html
 
+- url: /googled292cfc266c8e754.html
+  script: googled292cfc266c8e754.html 
+
 - url: /res
   static_dir: res 
