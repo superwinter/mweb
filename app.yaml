@@ -4,8 +4,8 @@ handlers:
 - url: /
   script: index.html
 
-- url: /sitemap.xml
-  script: sitemap.xml 
+- url: /sitemap.html
+  script: sitemap.html 
 
 - url: /res
   static_dir: res 
